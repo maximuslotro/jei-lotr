@@ -1,18 +1,19 @@
 modLoader="javafml" 
 loaderVersion="[27,)"
-issueTrackerURL="http:/github.com/CraftedMods/jei-lotr/issues"
+issueTrackerURL="http:/github.com/maximuslotro/jei-lotr/issues"
 license="GNU GENERAL PUBLIC LICENSE Version 3" 
 [[mods]] 
 modId="jeilotr" 
 version="5.0.0-BETA" 
-displayName="JEI LOTR" 
-updateJSONURL="https://raw.githubusercontent.com/CraftedMods/jei-lotr/master/versions.json" 
-displayURL="http://github.com/CraftedMods/jei-lotr" 
+displayName="JEI LOTR Extended" 
+updateJSONURL="https://raw.githubusercontent.com/maximuslotro/jei-lotr/master/versions.json" 
+displayURL="http://github.com/maximuslotro/jei-lotr" 
 credits="Malvegil, Mevans (LOTR Mod), mezz (JEI), the FML and Forge team, Mojang" 
-authors="Malvegil a.k.a. CraftedMods, Crafted_Mods or The Ranger Malvegil" 
+authors="Malvegil a.k.a. CraftedMods, Crafted_Mods or The Ranger Malvegil, Maximuslotro/MaximustheMiner" 
 
 description='''
 A JEI-Plugin for the "The Lord of the Rings" Minecraft Mod.
+Compatable with Renewed Extended
 '''
 [[dependencies.jeilotr]] 
     # the modid of the dependency
